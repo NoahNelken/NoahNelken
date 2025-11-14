@@ -2,7 +2,11 @@
 
 I am a junior in high school located in Los Angeles, California. I participate in FIRST Robotics as a programmer and electrical engineer.
 
-<!--
+## You can reach me at any of the following
+
+* Email 📧: noahnelken1@gmail.com
+* Instagram 📷: noahnelken
+* Discord 👾: sokara
 **NoahNelken/NoahNelken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
