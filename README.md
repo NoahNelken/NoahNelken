@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Noah
+
+I am a junior in high school located in Los Angeles, California. I participate in FIRST Robotics as a programmer and electrical engineer.
 
 <!--
 **NoahNelken/NoahNelken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
